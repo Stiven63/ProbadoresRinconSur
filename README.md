@@ -42,4 +42,4 @@ Usuarios de prueba (clave 1234 para todos):
 
 ## Trello
 
-(link del tablero)
+https://trello.com/b/iqnZVTrb/probadores-rincon-sur-dsy1105
